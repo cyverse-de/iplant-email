@@ -1,4 +1,6 @@
-The app "$app_name$", by $app_integrator$, has recently been made public.
-The app publisher is requesting that this app be added to the following communities, which you currently administrate:
+The app "$app_name$", by $app_integrator$, has been made public.
+The app publisher is requesting this app be tagged with the following communities:
 
 $community_list$
+
+As a community administrator, please either accept or reject this request.  

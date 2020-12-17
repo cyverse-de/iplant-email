@@ -1,5 +1,4 @@
-Your request to install $toolname$ is currently being evaluated. You will
-receive email updates and notifications in the Discovery Environment as the
-evaluation and installation process proceeds.
+We have received and are evaluating your request to install $toolname$. You will
+receive email updates and/or notifications in the Discovery Environment as this process proceeds.
 
 $comments$

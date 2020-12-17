@@ -1,5 +1,5 @@
 Your request to join team "$team_name$" was denied.
 
-Message from administrator:
+Message from the team administrator:
 
 $admin_message$

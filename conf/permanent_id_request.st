@@ -1,3 +1,4 @@
-$username$ has requested a new $request_type$ Permanent ID for the
+Dear Curator,
+We are notifying you that $username$ has requested a new $request_type$ Permanent ID for the
 $path$
-data set in the $environment$ environment.
+dataset in the $environment$ environment. 
