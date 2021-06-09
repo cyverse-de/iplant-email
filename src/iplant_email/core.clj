@@ -37,7 +37,7 @@
   (GET "/" [:as {{expecting :expecting} :params :as req}]
     (if (and expecting (not= expecting "iplant-email"))
       (status (response (str "Welcome to iPlant Email! Error: expecting " expecting ".")) 500)
-      "Welcome to iPlant Email!"))
+      "Welcome to Zombo.com!!!!!!"))
 
 
   (POST "/" {body :body} (sm/do-send-email body)))
