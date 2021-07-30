@@ -10,5 +10,5 @@ build:
   tagPolicy:
     gitCommit: {}
   artifacts:
-  - image: discoenv/iplant-email
+  - image: harbor.cyverse.org/de/iplant-email
   local: {}

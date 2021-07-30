@@ -40,7 +40,7 @@ spec:
                 path: iplant-email.properties
       containers:
       - name: iplant-email
-        image: "discoenv/iplant-email"
+        image: "harbor.cyverse.org/de/iplant-email"
         volumeMounts:
           - name: localtime
             mountPath: /etc/localtime
